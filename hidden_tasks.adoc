@@ -1,0 +1,21 @@
+= Hidden tasks are part of the sprint
+Carlos Sanchez <carlos.sanchez@ubirch.com>
+v0.0.1, 2021-11
+:doctype: article
+:encoding: utf-8
+:lang: en
+:xrefstyle: short
+:numbered!:
+
+[.normal]
+
+_Making sure hidden tasks are revealed and that proper time resources can be added to the general planning for these tasks in terms of a buffer or as explicit known tasks results in better plans, better execution, and better control of the sprint_. When making a plan for a next sprint, we usually go through all tasks, and discuss them in terms completeness: that's to say, if they are defined good enough -description, business value, acceptance criteria, etc.- to start working on them. A score is assigned, we work in "days per person" as our "points" measurement, which means how many days we estimate each task will take to be finalized. We usually have a sprint of about 2 weeks, which ends up being about 10 work days. This means that given a particular task, it is expected to be further understood, developed, deployed, and tested -usually by a QA team-. Assuming your work-load is of 4 tasks with 5 points each, we could assume that these 4 tasks would be finished as planed. However, what I have observed is that most of the time there is a left-over of unfinished tasks; sometimes because they got blocked by some unexpected reason, and other times -if not most of the time-, because hidden tasks were not taken into account when planning, and they turned out to be required and ended up consuming the time available.
+
+_The issue is not having these hidden tasks in the project, the problem is not being aware of them during planning and resource allocation_. I think, most of these hidden tasks are worth having as they indirectly contribute to the completeness of your tasks or the tasks of your colleagues. But I think they must be revealed and manifested as what they are: needed supporting activities that consume resources. Revealing these tasks is a very good first step into properly understanding the resources availability, it can be described in terms of time and/or people, however if they are not properly included as extras tasks, or as extra points in the estimation of the bigger tasks, the overall planning of the sprint will still be negatively affected.
+
+_The nature of these tasks is tricky_. It is often the case that we don't know that these tasks are present in the principal tasks of the sprint, it can also happen that what we thought as being clear for a principal task, it is not, and we have to clarify the missing understandability of the task. In these two cases, adding a buffer to your principal task can work well as long as you communicate this to your scrum master or team leader in due time, as soon as possible. It can also happen that when we work for a company, other non-related activities, such as meetings about other topics, can show up. This is normal. It could be a meeting about a future feature, meeting a new colleague, supporting another colleague, etc. In this case, adding a buffer for these orthogonal activities can help make the plan more accurate, but these tasks should be minimal, it should not be allowed having many of these, it must be limited. The key element is to recognize that there are unknown or unaccounted activities that need to have their proper space in the planning, depending on the type of contribution they represent.
+
+_Monitoring hidden tasks once unveiled will provide the product owners, and managers a new perspective for the proper definition of tasks, estimations, and more efficiency_. These tasks should be studied and understood, because they can shed light on aspects of the whole project that might affect its timely execution. If no insights are obtained from these tasks, the team will not improve. The project manager should infer signals of mal-functioning project parts. It could be the case that no reasonable limits to the amount of meetings or their duration have been implemented. Or it could be the case, that the initial definition of the tasks is poorly defined, and more refinement is required. Or it could be that the amount of dependencies with other team members, and their response times need to be improved.
+
+
+
