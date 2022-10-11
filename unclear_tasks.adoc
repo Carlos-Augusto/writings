@@ -22,6 +22,6 @@ Requirement artifacts are the underlying thread throughout the software product 
 [bibliography]
 == References
 
-* [[[martin_fowler, 3]]] UML Distilled: A Brief Guide to the Standard Object Modeling Language (2nd Edition)
+* [[[martin_fowler, 1]]] UML Distilled: A Brief Guide to the Standard Object Modeling Language (2nd Edition)
 
 
