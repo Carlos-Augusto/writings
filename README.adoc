@@ -1,6 +1,7 @@
 = Writings
 
 - link:hidden_tasks.adoc[Hidden tasks are part of the sprint]
+- link:unclear_tasks.adoc[Unclear tasks as a symptom of incomplete phases]
 
 
 
