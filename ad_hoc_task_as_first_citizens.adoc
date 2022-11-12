@@ -1,0 +1,17 @@
+= Ad-hoc tasks as first-class citizens
+Carlos Sanchez <carlos.sanchez@ubirch.com>
+v0.0.1, 2021-09
+:doctype: article
+:encoding: utf-8
+:lang: en
+:toc: left
+
+:numbered!:
+
+Ad-hoc tasks carry very important information and characteristics that contribute throughout the execution of the project as a stabilization force targeted at positively completing the project.
+
+Ad-hoc tasks are first-class citizens in the life of any software project. They are part of the project and are not external noise that make it into the project as random disconnected tasks that consume resources. They present themselves as unexpected, as if they have not been discussed or even discovered yet, and probably they have not been, however, they point at elements or behaviors that need urgent attention. They show that there is still something in the project that has not reached its stability. Ad-hoc tasks, observed under the light of the concept of being a first-class citizen, contribute at the discovery of incomplete analysis, risks that were not taken into account, and also stakeholders' satisfaction.
+
+Ad-hoc tasks act as part of the feedback loop for the development and stabilization of the software project and as such they help to improve the general view and understanding of the system in a way that it can produce a higher significant value and a reduction of risks. Feedback loops, either increase or decrease the effect of an action or behavior. These should always be accounted for, as our goal is to reach a stable state in the project, in the code, and in the stakeholders' vision of the project. Ad-hoc tasks are quick and unexpected, they are telling us that there is one matter that doesn't allow the system's current state to properly function. These signals that we receive should be considered as a source of information in the search of stability, they might be pointing at elements that are not clear, not properly installed, or completely missing in the architecture of the system. The project should learn from these signals, and we have to ask ourselves and our team, what this ad-hoc task is telling us. Is it maybe pointing at a specific component in our architecture that might become a risk? How can we incorporate the nature of these tasks? It is, therefore, important that we classify these ad-hoc tasks in a way that after some reasonable time allows us to aggregate them and identify patterns that lead us to a systematic solution.
+
+Our goal is to improve our architecture and project management. We want to build successful software that meets the expectations. It is as simple as that. The majority of people in software development expect that they will have a perfect and smooth development, in which all requirements, responsibilities, and priorities and execution are well-defined. I used to expect the same. However, I have realized that it is not possible. It is actually a waste of time and energy to expect that any software project will be clear and transparent enough throughout all its phases. What is possible, plausible, and feasible within the project is to change the view on the ad-hoc tasks in a manner that we can incorporate their nature and improve our system's architecture and our project management. If we can synchronize with the meta-information that ad-hoc tasks carry and make our system be more stable, it is already a win.
