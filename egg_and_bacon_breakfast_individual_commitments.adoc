@@ -1,0 +1,30 @@
+= "Egg-and-Bacon" breakfast: individual commitments
+Carlos Sanchez <carlos.sanchez@ubirch.com>
+v0.0.1, 2021-11
+:doctype: article
+:encoding: utf-8
+:lang: en
+:xrefstyle: short
+:numbered!:
+
+[.normal]
+
+== Alone
+
+Professional qualifications are not a 100% trustworthy trait that we can rely on to say whether a person is right for a job. There are many more areas that are equally or more important, however, identifying them and making a proper match is a complicated matter. It is a similar case to when we were at high-school, and we had class with people that got better scores than the ones we got. At that time, having high scores was the most relevant aspect to classify a person, and probably to vaticinate their future. However, high scores became almost irrelevant at the point of defining our future in different contexts, or at different ages. The future became different. I believe that tenacity, commitment, adaptability, and sense of a target destination could play a better role. This doesn't mean that we don't have to be prepared and know our field. What it means is that we need to enhance our view and allow ourselves to recognize other aspects to our nature that can have a greater impact on our actions.
+
+_Tenacity:_
+
+What a beautiful trait is tenacity. That determination that is in us and that motivates us to keep on moving, keeping on playing. I believe tenacity is sometimes understood as being super strong and immovable, yet, I think it can have a different, more subtle, view as well. That is, continuing adding, improving your work, little by little, making use of a compounded effect. Sometimes what keeps us away from doing something is that we believe a huge amount of work is needed at one single point in time, and maybe it is, but there is also this idea of constant improvement, constant moving, where all what is required is keep improving it, daily.
+
+_Commitment_:
+
+A fascinating analogy that just popped up in my head is the statement of being involved but not committed, in other words, being the chicken but not the pig in an "egg and bacon" breakfast. This analogy makes me think that this concept could be the trigger to greater development in the way that we participate in the activities that matter to us the most: what is our degree of commitment? Being involved means that we are part of a particular project or activity in which we are only making our part, nothing less, nothing more, and to a normal level of realization. When something goes wrong in the project, we are not affected, we can continue as if nothing had happened, the level of participation is that of a chicken, we provide the eggs, nothing beyond that. Contrary to this is the committed participation, which represents a higher level of interest. When we are committed to a project or activity, we are deeply connected to the development of the project, not because we do more, but because what we do is remarkable, it is of our interest to be successful, or at least, to provide a remarkable participation, we provide the bacon, we give ourselves to the activities.
+
+_Adaptability:_
+
+Producing remarkable work is a very important trait to a group of people participating together in some sort of enterprise. But things can go wrong or shift their destination, we have to adapt and move on. Either we decide that the current project doesn't mirror the state where we would like to be in and stop, and adapt into something else, we start anew. However, things can also be about quickly pivoting, or modifying certain assumptions of the project even though when it is still worth of your commitment. In both cases, we have to adapt, we welcome the new ideas or possible new constraints and make a decision on whether we want to adapt to start another endeavor or to integrate the new rules of the game.
+
+_Destination:_
+
+A clear destination is a perceptible statement of understanding and of planning, even if this planning only happens in our minds. I think, we sometimes forget where we want to be, to what next state we want to bring our current project into. Of course, the destination can change, but whatever it is, we should not remove it from our sight. I believe that forgetting that is what doesn't allow us to move toward it. Maybe our destination is a goal we have, or even better, it can be seen as a goal.
