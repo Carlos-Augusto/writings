@@ -1,0 +1,43 @@
+= Cohesion for better architecture
+Carlos Sanchez <carlos.sanchez@ubirch.com>
+v0.0.1, 2021-10
+:doctype: article
+:encoding: utf-8
+:lang: en
+:toc: left
+
+:numbered!:
+
+[.normal]
+
+Cohesion<<cohesion_wiki>> <<cohesion_washington>> can be used to increase the quality of the software we create. Creating software can be complex and as it evolves a proper organization of the software modules footnote:[We understand a module as a logical aggregation of code. It can be seen at different levels, it can be a package and its internal artifacts; or it can also be the internal artifacts themselves only, for example, a class] we create is an essential characteristic that needs to be maintained and guarantied. Cohesion is a software metric that describes how well-connected our software modules are and can be used to provide better understandability of our code, better communication within stakeholders, and development guidance.
+
+We can use this metric as the indicator of how dependent our modules are and use this information to make better decisions that aim at the organization principles we are interested in and would like to keep under control. It basically tells you if the dependency between two or more modules is well-orchestrated or not. This information is of paramount importance as it allows discovering missing connections or connections that are not contributing toward a better architecture<<martin_fowler>>. High cohesion allows us maintaining and extending the fabric of our system.
+
+== Better understandability of our code
+
+One of the most important traits a piece of software should have is understandability. Cohesion is one of the metrics that is often most forgotten, nonetheless, it provides one of the most valuable views on how maintainable and understandable our software can be. High Cohesion and low coupling are part of the same observation, when one goes up, the other goes down. Can our software be easily explained to another peer? Can it be maintained without causing havoc in the development?. From the point of view of another person that is not in touch with it, can she/he understand what is going on at the levels of our system?
+
+Once we have made the initial decision on how we want to start with the fabric of our code, we can use the cohesion metric to align our design decisions around a high value of the measurement of this metric. By maintaining a high cohesion in our modules, we are improving the understanding of our code. It helps to understand the threads of the fabric of our software, and consequently, be able to manage the complexity of the interconnection of the internal parts of the system in a less risky manner.
+
+== Better communication
+
+High cohesion provides understandable organization and good organization provides good communication. Order and size of the messages in the communication are important. When we want to communicate something, not only do we need to know what the purpose of the message is, but also we need to think in terms of what a logical sequence of steps for that message is and how large should these steps be. The order and size are medium dependent. It depends on who we are talking to and under what circumstances. However, in order to identify the proper measure, an organized system is very helpful. A clear systems' organization gives us clear division of what is important and what it is not. It gives us a sense of clarity. By using cohesion as a compass of inner organization, we gain better communication of the system toward our peers or clients.
+
+== Development guidance
+
+Cohesion is a software metric that can provide clear guidance for a better architecture of our software. When we start developing software, it is important to provide a general organization of the modules our software will be composed of. However, at the beginning of the software development effort, it is not clear to identify what could be the fittest organization. You might have a feeling or initial draft to what might be making more sense based on the requirements or constraints that may have been derived from meetings or documents, and up to an extent, it provides a good initial thread of communication for development, however, as things start to get more concrete, or requirements change, measuring the cohesion of our modules could provide an anchoring or verification method to adjust the relation of the elements or parts of our design.
+
+[bibliography]
+== References
+
+* [[[cohesion_wiki, 1]]] https://en.wikipedia.org/wiki/Cohesion_(computer_science)[Cohesion Wikipedia(computer_science)]
+
+* [[[cohesion_washington, 2]]] https://courses.cs.washington.edu/courses/cse403/96sp/coupling-cohesion.html[Cohesion basics]
+
+* [[[martin_fowler, 3]]] https://www.martinfowler.com/architecture[Architecture]
+
+
+
+
+

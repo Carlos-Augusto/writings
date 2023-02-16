@@ -5,6 +5,8 @@
 - link:ad_hoc_task_as_first_citizens.adoc[Ad-hoc tasks as first-class citizens]
 - link:egg_and_bacon_breakfast_individual_commitments.adoc[Egg and bacon breakfast: individual commitments]
 - link:egg_and_bacon_breakfast_group_commitments.adoc[Egg and bacon breakfast: group commitments]
+- link:cohesion_for_better_architecture.adoc[Cohesion for better architecture]
+
 
 
 
