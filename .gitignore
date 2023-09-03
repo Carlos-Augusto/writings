@@ -1,2 +1,9 @@
+*.class
+*.log
+target
 .idea
-node_modules
+project/project
+project/target
+*.iml
+**/node_modules/
+yest
