@@ -1,0 +1,19 @@
+= Ad-hoc Aufgaben als eigenständige Bewohner in Software
+Carlos Sanchez <carlos.sanchez@ubirch.com>
+v0.0.1, 2023-03
+:doctype: article
+:encoding: utf-8
+:lang: de
+:toc: left
+
+:numbered!:
+
+Ad-hoc Aufgaben beinhalten sehr wichtige Informationen und Eigenschaften, die im Verlauf der Durchführung eines Softwareprojektes als eine Stabilisierungskraft dazu beitragen, das Projekt positiv abzuschließen.
+
+_Ad-hoc Aufgaben sind https://en.wikipedia.org/wiki/First-class_citizen[`eigenständige Bewohner`] durch das Leben von jedem Softwareprojekt_. Sie sind Teil des Projektes und kein externer Lärm, der in das Projekt als zufällige unzusammenhängende Aufgaben angekommen ist, der Ressourcen verbraucht. Sie tauchen unerwartet auf, als ob sie noch nicht besprochen oder sogar entdeckt wurden, was möglicherweise so ist. Jedoch weisen sie Elemente oder Verhalten auf, die dringende Aufmerksamkeit verlangen. Sie zeigen darauf, dass es noch etwas gibt, das ihre Stabilität noch nicht erreicht hat. Ad-hoc Aufgaben, unter dem Licht des Prinzips des eigenständigen Bewohners betrachtet, führen zur Entdeckung unerledigter Analyse, Risiken, die nicht in Betracht gezogen wurden, und zur Zufriedenheit der Stakeholder zu.
+
+_Ad-hoc Aufgaben wirken wie ein Teil der Entwicklungs- und Stabilisierungsfeedbackschleife_. Dadurch helfen sie bei der Verbesserung der allgemeinen Darstellung und Einsicht des Systems, auf eine Weise, die höheren bedeutenden Wert und Risikenabnahme hervorbringt. Feedbackschleifen nehmen die Auswirkungen von einer Aktion oder einem Verhalten entweder zu oder ab. Da wir zum Ziel haben, ein stabiler Zustand im Projekt, im Code, und in der Stakeholderssichtweise im Project zu erreichen, müssen diese immer berücksichtigt werden. Ad-hoc Aufgaben sind kurz und unerwartet, sie lassen erkennen, dass eine unerledigte Sache es nicht erlaubt, den jetzigen Zustand des Systems richtig zu funktionieren. Diese Signale, die wir bekommen, sollten als eine Informationsquelle zur Stabilität betrachtet werden. Sie mögen darauf deuten, dass Elemente nicht klar genug, nicht ordnungsgemäß installiert, oder ganz fehlend in der Architektur des Systems sind. Das Projekt sollte von diesen Signalen lernen, und wir sollten uns und unser Team fragen, was genau diese Aufgaben versuchen, uns zu sagen. Könnte es sein, dass eine spezifische Komponente einem Risiko unterworfen ist? Wie können wir die Natur dieser Risiken erarbeiten? Deshalb ist es ausschlaggebend, diese Ad-hoc Aufgaben einzuordnen, sodass sie innerhalb angemessener Zeit erarbeitet werden können, und Muster daraus identifiziert werden können, die uns zu einer systematischen Lösung zuführen.
+
+_Unser Ziel ist es, unsere Architektur und Projektmanagement zu verbessern_. Wir interessieren uns dafür, erfolgreiche Software aufzubauen, die die Erwartungen und Anforderungen erfüllt. Es ist halt so. Die meisten Leute im Bereich der Softwareentwicklung erwarten, dass sie eine perfekte und reibungslose Entwicklung haben werden, in der alle Anforderungen, Verantwortungen, Prioritäten und Umsetzung wohlbestimmt sind. Ich habe dasselbe erwartet. Trotzdem habe ich bemerkt, dass es nicht möglich ist. Es ist eigentlich ja eine Energie- und Zeitverschwendung, es zu erwarten, dass jedes Softwareprojekt klar und durchsichtig durch alle seine Phasen sein wird. Was möglich, plausibel, und realisierbar innerhalb jedes Softwareprojekt sein kann, ist die Perspektive in Bezug auf Ad-hoc Aufgaben zu ändern, damit wir seine Natur einbauen und unsere Systemarchitektur und Projektmanagement verstärken können. Wenn wir uns mit der Metainformation der Ad-hoc Aufgaben abstimmen und dadurch unser System stabiler machen, ist es schon ein Gewinn.
+
+
