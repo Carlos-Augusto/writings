@@ -3,6 +3,7 @@
 - link:hidden_tasks.adoc[Hidden tasks are part of the sprint]
 - link:unclear_tasks.adoc[Unclear tasks as a symptom of incomplete phases]
 - link:ad_hoc_task_as_first_citizens.adoc[Ad-hoc tasks as first-class citizens]
+- link:ad_hoc_task_as_first_citizens_de.adoc[Ad-hoc tasks as first-class citizens (deutsch)]
 - link:egg_and_bacon_breakfast_individual_commitments.adoc[Egg and bacon breakfast: individual commitments]
 - link:egg_and_bacon_breakfast_group_commitments.adoc[Egg and bacon breakfast: group commitments]
 - link:cohesion_for_better_architecture.adoc[Cohesion for better architecture]
