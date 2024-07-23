@@ -1,5 +1,5 @@
 = "Egg-and-Bacon" breakfast: group commitments
-Carlos Sanchez <carlos.sanchez@ubirch.com>
+Carlos Sanchez <carlos@recovery.cat>
 v0.0.1, 2021-11
 :doctype: article
 :encoding: utf-8

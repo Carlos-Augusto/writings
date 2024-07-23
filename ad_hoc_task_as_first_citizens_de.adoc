@@ -1,5 +1,5 @@
 = Ad-hoc Aufgaben als eigenständige Bewohner in Software
-Carlos Sanchez <carlos.sanchez@ubirch.com>
+Carlos Sanchez <carlos@recovery.cat>
 v0.0.1, 2023-03
 :doctype: article
 :encoding: utf-8
