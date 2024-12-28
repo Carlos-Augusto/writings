@@ -1,10 +1,9 @@
 = Knowledge Sharing in Software Products
-Carlos Sanchez <>
+Carlos Sanchez <carlos@recovery.cat>
 v0.0.1, 2024-07
 :doctype: article
 :encoding: utf-8
 :lang: en
-:toc: left
 
 == Problem
 
