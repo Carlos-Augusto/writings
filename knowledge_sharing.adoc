@@ -1,0 +1,55 @@
+= Knowledge Sharing in Software Products
+Carlos Sanchez <>
+v0.0.1, 2024-07
+:doctype: article
+:encoding: utf-8
+:lang: en
+:toc: left
+
+== Problem
+
+Building software is a very special activity that requires a good amount of effort and coordination among different people, teams, or even companies. It is a special activity because it transforms requirements, knowledge, and limitations into a digital form that can’t be physically perceived, you can run it, but you can’t perceive it like you would for example with a car. It is also especial because it is expected to be maintainable. The same people that build it, or other teams are expected to be able to work together on expanding the amount of things the software can or can’t do. This includes new features, fixing bugs, removing features, keeping the software updated and secure in terms of the external building blocks that have been used, etc. The very nature of software is change and within this nature and behavior, there is something that very often doesn’t exist, it is not supported, or it is not properly controlled: knowledge sharing of the solution among the members of your team or expected users of your software through different methods. This inefficiency at the time of supporting knowledge sharing can have a lot of implications in your company or team.
+
+== Implications
+
+=== Knowledge leaving: regardless of kind of contract
+
+When a person leaves a company for one reason or another, and the team has not been encouraged to share their knowledge, it is very likely that a great deal of knowledge will leave the company. Regardless of how long the person stays at the company, it can be a couple of months or decades, there is always in most of the cases a chance that the person might have produced some sort of knowledge. The more the person works and produces in the company, the more critical the knowledge escape can be. And this takes place no matter what the type of the contract it is, either if you are a consultant, freelancer, or an employee.
+
+=== Making software die
+
+At the time when the people that have been involved in the development of a software product decide to leave, and there hasn’t been any effort toward increasing the knowledge sharing of your software, or there is no clear description and maintenance of a software architecture, there is a risk that the software will die, or will have to be refactored to accommodate new requirements based on new rules, or it might be the case that while the remaining team organizes itself and learns more details about the software, the change might cause that team must work more compactly and focused on a set of features that are really key. However, the software product could also just die because it might be easier to freshly rewrite it.
+
+=== Making a company lose money
+
+The motivation in a team is very important to foster, and one way to do it is by offering ways to assure that work can be done, that together as a team, the needed knowledge can be discovered and created, as opposed to thinking that one person needs to be replaced or throttle every change. Knowledge sharing reduces the pain of leaving and guarantees that show can go on.
+
+== Solutions
+
+=== Knowledge should move toward the employees of the company
+
+Knowledge sharing should be promoted at all levels of a company, regardless if people at these levels are directly hired as employees or if they are contractors. However, knowledge at the level of contractors should move toward the employees themselves as they have a more lasting relation with the core values of the company. At some point companies can collaborate with each other and have their relations regulated through contracts and business laws. Moreover, at some point, the level of specialization can be so detailed, that each company will respond for a set of features/API, etc. without causing issues, and actually improving productivity. Nevertheless, there are other situations, especially in small companies, in which it is very critical that contractors have special rules that facilitate the knowledge flow into the company as such. This doesn’t mean, they can’t be knowledge holders or experts on their fields; what it means is that, whatever they produce should generate artifacts that are shared and studied by other members of the team.
+
+=== Make sure that the problem is understood by C-Level
+
+C-level must understand and support knowledge sharing tactics. Without their support, there will be a high risk that the software product will become obsolete, or that changes won’t be feasible. This is specially important when the company is building or has built a software product. However, this goes beyond C-level and into management areas of the company. Knowledge sharing should be a key value of the company throughout all areas. The expectation is that every leader in a company will promote a spirit of knowledge sharing within their influence circle. It has to be part of the company culture.
+
+=== Integrate workshops into the team
+
+Organizing regular workshops with the team is a great tool to facilitate knowledge sharing and teamwork. Important to mention is that every team member should actively participate by leading sessions based on the work/experience they have had. Rotation is then essential. Key to this is to enable people to share whatever they have been contributing to the software product. Depending on your team size, they can take place at least every month, less than usually causes that the team struggle to prepare their presentation.
+
+=== Support and encourage writing about your product/technology at different levels
+
+The creation of documentation is probably, without any doubt, the single one most relevant aspect about knowledge sharing. It is the one element that allows for knowledge to be asynchronously recorded and maintained, while still targeting the whole team to have the chance to read it, also asynchronously. Without it, knowledge would only reside inside the team members’ heads, and there won’t be any mechanism, which facilitates self-learning and asynchronous participation. There are different kinds of documentation that one team could create, one is the documentation that is maintained or written as documents, like guides, how-tos, and architectural documentation; the other one is the documentation that is maintained in the code itself, maybe as API descriptions, or comments on the software components.
+
+0ne risk in general about documentation is the belief of it being extra work that needs to be maintained apart from the code itself. To a certain degree, that is true, it must be maintained, but that is precisely the goal of knowledge sharing, that it should be organic, active, and part of the way, in which the team operates. The team understands that creating software products is more than writing code.
+
+Of course, there are other types of documentation that can be sort of automated or integrated as part of the software development process, like openapi descriptions that are compiled and released with the code. Architecture documentation, which to most companies is nonexistent. There have been projects that are very powerful in terms of code, but have lost their market share due to lack of documentation. Documentation can be a very decisive point for the future of a software product and of a company.
+
+=== Encourage teamwork
+
+Not only team work means to work together on a task or set of tasks, it also means a level of high engagement that is shared among all members of the team. This makes it particularly difficult to develop as every person in the team may have different levels of engagement and of involvement. It doesn’t mean that one person will do everything, suffocating the activities of the other people. On the contrary, it means that there is a well-distributed set of tasks, which focused, which are worked on with passion, responsibility, and constant communication with the other team members. There is a constant conversation, which promotes a feeling of working together for a single goal. When that happens, knowledge sharing is being facilitated.
+
+=== Support the architecture of a software product
+
+One of the most relevant set of documents is the set for the architecture documentation. Documents that provide clear explanation about the structural decomposition, the use cases and layering, and the processes of the systems are, without any doubt, a type of knowledge sharing that provides a great deal of value to the members of the team, regardless of their roles. Apart from these aspects, there are other factors that are also very important to integrate as part of the architecture documentation. These are the quality attributes, like performance, security, testability, deployability, etc. They go beyond the functional requirements of a system, but they guarantee that the system can actually operate within the expected level of quality. A lack of knowledge sharing about these aspects will represent the destiny of the software product.
